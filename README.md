@@ -7,6 +7,6 @@ This repo contains the tasks I completed during the internship, covering real-wo
 
 ##  What's Inside?
 
-Each task is organized into its own folder with Jupyter notebooks, datasets, and a brief description.
+Each task is organized into its own folder with Jupyter notebooks which provides whole code along with description of task and dataset file.
 
 
